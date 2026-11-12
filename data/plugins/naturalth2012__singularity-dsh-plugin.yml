@@ -1,0 +1,6 @@
+url: https://github.com/naturalth2012/singularity-dsh-plugin
+name: naturalth2012/singularity-dsh-plugin
+category: ui
+description:
+  en: "An interactive simulator of how AI might end capitalism and open the road to communism, mounted as a full-width panel. Fourteen levers (AI capability, compute, automation, energy, redistribution, public ownership, global coordination, labour power, meaning, education, solidarity, transition shock, class conflict, capital capture) drive a 2024-2060 yearly simulation; a single decision function picks the winning path among feudalism, social democracy, communism, and collapse, and the same function feeds the panel, so the displayed gravity shares always match the resulting outcome. Six preset scenarios, adjustable timeline, and an offline pure-JS engine with no Host RPC, no network requests and no runtime dependencies."
+  zh: "一个交互式历史推演器，模拟 AI 如何让资本主义陨落、通往共产主义，以全宽面板挂载。十四个杠杆（AI 认知、算力、自动化、能源、再分配、公共产权、全球协同、劳动者组织度、意义供给、教育、团结度、转型冲击、阶级对抗、资本俘获）驱动 2024-2060 逐年推演；单一裁决函数在算力封建制、社会民主主义、共产主义与文明崩解之间选出胜出路径，面板显示的引力占比即该函数输出，因此始终与实际结局一致。含六种预设情景、可拖动时间轴，引擎为纯 JS 离线运行，无 Host RPC、无网络请求、无运行时依赖。"
